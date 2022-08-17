@@ -1,0 +1,7 @@
+1. Belajar semua dasar the things of programming.
+2. Menguasai satu bahasa dan satu framework dari tingkat dasar hingga expert.
+3. Konsisten, wajib belajar 4 jam dalam sehari.
+4. Wajib praktik (minimal mengikuti tutorial) ngoding apapun dalam sehari.
+5. Fokus pada bidang Front End selama tiga tahun penuh didalam dunia industri/start-up
+
+Harapannya setelah lulus bisa langsung bekerja di dunia industri khususnya bidang programming.
